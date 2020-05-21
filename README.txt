@@ -1,0 +1,2 @@
+For more information about the GUI, you can press the help-button on the right side of the screen. A window will open where you can find an explanation of every function.
+The GUI is named "forceplate_main.mlapp" and must always be in the same directory as "Help.mlapp". Otherwise, the help-button won't work.
